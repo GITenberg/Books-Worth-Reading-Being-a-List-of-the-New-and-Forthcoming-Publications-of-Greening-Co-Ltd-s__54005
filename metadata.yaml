@@ -1,5 +1,8 @@
 _repo: Books-Worth-Reading-Being-a-List-of-the-New-and-Forthcoming-Publications-of-Greening-Co-Ltd-s__54005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54005-h/images/cover.jpg
 creator:
   author:
     agent_name: Greening & Co. Ltd.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47652'
     url: http://www.gutenberg.org/2009/agents/47652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54005#Books-Worth-Reading-Being-a-List-of-the-New-and-Forthcoming-Publications-of-Greening-Co-Ltd-s_
 gutenberg_issued: '2017-01-18'
 gutenberg_type: Text
 identifiers:
